@@ -77,4 +77,4 @@ This project is for educational purposes only. Not intended for production use.
 
 ## Author
 
-Jananii (as per certificate CN name)
+Jananii
